@@ -3,7 +3,4 @@
 .cache/9c/54fd69c78d1d4996bc3c54098cad8e.json
 .cache/be/4f00497c5b83f28f16698470ed65ab.json
 .cache/d8/b2b856dd05592a4e5ffa07e15cd5f0.json
-dist/
-
-dist/app.c328ef1a.js
-dist/app.c328ef1a.js.map
+dist/*
